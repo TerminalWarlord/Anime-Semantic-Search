@@ -1,0 +1,10 @@
+{
+    "fields": [
+        {
+            "numDimensions": 384,
+            "path": "embedding",
+            "similarity": "dotProduct",
+            "type": "vector"
+        }
+    ]
+}
